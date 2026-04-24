@@ -29,12 +29,13 @@ Hands-on labs simulating real-world issues:
 
 ---
 
-### 📚 LPIC-101 Study
-Structured study notes + hands-on practice:
-- CLI commands  
-- permissions  
-- processes  
-- networking basics  
+### 📚 LPIC-101/102 Study
+Structured study notes combined with hands-on practice:
+
+- CLI commands and navigation  
+- File permissions and ownership  
+- Processes and system management  
+- Networking fundamentals (TCP/IP, DNS)    
 
 ---
 
