@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marcelo
 
-🎯 Junior Linux / IT Support focused on real-world troubleshooting and system operations.
+🎯 🎯 Junior Linux / IT Support | Troubleshooting & System Operations.
 
 I’m currently building hands-on experience with Linux systems while preparing for LPIC-101 and LPIC-102 certifications.
 
