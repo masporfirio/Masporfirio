@@ -30,12 +30,12 @@ Hands-on labs simulating real-world issues:
 ---
 
 ### 📚 LPIC-101/102 Study
-Structured study notes combined with hands-on practice:
+Structured learning path with practical exercises focused on real-world Linux usage:
 
-- CLI commands and navigation  
-- File permissions and ownership  
-- Processes and system management  
-- Networking fundamentals (TCP/IP, DNS)    
+- CLI navigation and command-line tools  
+- File permissions and ownership management  
+- Process and system management  
+- Networking fundamentals (TCP/IP, DNS)   
 
 ---
 
